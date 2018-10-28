@@ -1,6 +1,6 @@
 ## Arduino Frequency Counter Library  
   
-<a href="http://interface.khm.de/wp-content/uploads/2009/01/freqcounter.jpg"><img title="freqcounter" src="http://interface.khm.de/wp-content/uploads/2009/01/freqcounter.jpg" alt="freqcounter" width="370" height="295"></a>
+<a href="https://github.com/BlackBrix/Arduino-Frequency-Counter-Library/raw/master/pics/freqcounter.jpg"><img title="freqcounter" src="https://github.com/BlackBrix/Arduino-Frequency-Counter-Library/raw/master/pics/freqcounter.jpg" alt="freqcounter" width="370" height="295"></a>
   
 From our › Theremin Project I derived this Frequency Counter Library. The library makes it possible to measure frequencies with a high resolution and accuracy.  
   
@@ -32,11 +32,11 @@ Void loop() {
 ```
 ### Preamplifier schematics  
   
-<a href="http://interface.khm.de/wp-content/uploads/2009/01/preamp.gif"><img title="preamp" src="http://interface.khm.de/wp-content/uploads/2009/01/preamp.gif" alt="preamp" width="617" height="189"></a>
+<a href="https://github.com/BlackBrix/Arduino-Frequency-Counter-Library/raw/master/pics/preamp.gif"><img title="preamp" src="https://github.com/BlackBrix/Arduino-Frequency-Counter-Library/raw/master/pics/preamp.gif" alt="preamp" width="617" height="189"></a>
   
 ### Source Codes
 Updated 10/2010 ; works with atmega328; removed some glitches  
-Updated 1/2012 ; Arduino 1.0  
+Updated 01/2012 ; Arduino 1.0  
 Download  >FreqCounter Library  
   
 ### Forum
