@@ -35,7 +35,7 @@ Void loop() {
 <a href="https://github.com/BlackBrix/Arduino-Frequency-Counter-Library/raw/master/pics/preamp.gif"><img title="preamp" src="https://github.com/BlackBrix/Arduino-Frequency-Counter-Library/raw/master/pics/preamp.gif" alt="preamp" width="617" height="189"></a>
   
 ### Source Codes
-Updated 10/2010 ; works with atmega328; removed some glitches 
+Updated 10/2010 ; works with atmega328; removed some glitches  
 Updated 01/2012 ; Arduino 1.0  
 Download (Original from Author) [>FreqCounter](http://interface.khm.de/wp-content/uploads/2009/01/FreqCounter_1_12.zip) Library  
   
