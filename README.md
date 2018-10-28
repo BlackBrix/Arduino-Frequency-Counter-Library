@@ -2,7 +2,7 @@
   
 <a href="https://github.com/BlackBrix/Arduino-Frequency-Counter-Library/raw/master/pics/freqcounter.jpg"><img title="freqcounter" src="https://github.com/BlackBrix/Arduino-Frequency-Counter-Library/raw/master/pics/freqcounter.jpg" alt="freqcounter" width="370" height="295"></a>
   
-From our › Theremin Project I derived this Frequency Counter Library. The library makes it possible to measure frequencies with a high resolution and accuracy.  
+From our › [Theremin Project](http://interface.khm.de/index.php/lab/interfaces-advanced/theremin-as-a-capacitive-sensing-device/) I derived this Frequency Counter Library. The library makes it possible to measure frequencies with a high resolution and accuracy.  
   
 The Frequency input is fixed to digital pin 5. This pin is mapped to the alternate port function T1 which is the input 16 Bit Hardware Counter1. To obtain a higher resolution than 16 Bit,  the counter overflows are counted also and are calculated with the counter value to the final long integer result. The Frequency Source output must have a digital level so that weak Signals have to be amplified for instance by an single transistor or a 74HC14 inverter. The maximum input frequency is about 8 MHz when signal duty cycle is 50%.  
   
