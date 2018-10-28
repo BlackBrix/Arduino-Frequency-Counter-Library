@@ -4,10 +4,10 @@
   Using Timer2 for Gatetime generation
 
   Martin Nawrath KHM LAB3
-  Kunsthochschule für Medien Köln
+  Kunsthochschule fÃ¼r Medien KÃ¶ln
   Academy of Media Arts
   http://www.khm.de
-  http://interface.khm.de/index.php/labor/experimente/	
+  http://interface.khm.de/index.php/lab/interfaces-advanced/arduino-frequency-counter-library/	
   
   History:
   	Dec/08 - V1.0 
