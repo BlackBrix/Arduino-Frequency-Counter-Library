@@ -5,7 +5,7 @@
   Kunsthochschule f¸r Medien Kˆln
   Academy of Media Arts
   http://www.khm.de
-  http://interface.khm.de/index.php/labor/experimente/	
+  http://interface.khm.de/index.php/lab/interfaces-advanced/arduino-frequency-counter-library/	
  */
 #include <FreqCounter.h>
 
