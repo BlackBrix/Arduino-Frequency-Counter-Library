@@ -1,3 +1,8 @@
+This library is "cloned" from here (including the this readme-file):  
+http://interface.khm.de/index.php/lab/interfaces-advanced/arduino-frequency-counter-library/  
+  
+---------
+  
 ## Arduino Frequency Counter Library  
   
 <a href="https://github.com/BlackBrix/Arduino-Frequency-Counter-Library/raw/master/pics/freqcounter.jpg"><img title="freqcounter" src="https://github.com/BlackBrix/Arduino-Frequency-Counter-Library/raw/master/pics/freqcounter.jpg" alt="freqcounter" width="370" height="295"></a>
