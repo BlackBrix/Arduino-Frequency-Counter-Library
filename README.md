@@ -13,7 +13,7 @@ The Frequency input is fixed to digital pin 5. This pin is mapped to the alterna
   
 If you like to measure higher frequencies you have to use an prescaler or divider circuit which can be used from other counter projects published in the web. The Gate Time for the counting period can be chosen in the start() function where values of 10, 100 or 1000 ms are practicable for a resolution of 100, 10 and 1 Hz  but any value can be used. The internal resolution of the gatetime is 2 ms so that the time can be varied in the increment of 2. If you wish to minimize the indication error the value of  FreqCounter::f_comp variable can compensate slight gatetime errors. Compared to an commercial ACECO counter it is possible to trim the deviation to almost zero over the whole range. For gatetimes of 10,100,1000 the  values 1, 10 and 100 where found to be good for our Duemilanova boards.  
   
-### Example Programm  
+### Example Program  
   
 ```C++
 #include <FreqCounter.h>
