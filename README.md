@@ -42,7 +42,7 @@ Void loop() {
 ### Source Codes
 Updated 10/2010 ; works with atmega328; removed some glitches  
 Updated 01/2012 ; Arduino 1.0  
-Download (Original from Author) [>FreqCounter](http://interface.khm.de/wp-content/uploads/2009/01/FreqCounter_1_12.zip) Library  
+Download (Original from Author) [>FreqCounter](https://interface.khm.de/wp-content/uploads/2009/01/FreqCounter_1_12.zip) Library  
   
 ### Forum
 further questions to this topic can be discussed here:  
