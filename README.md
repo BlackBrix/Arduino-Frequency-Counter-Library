@@ -46,7 +46,7 @@ Download (Original from Author) [>FreqCounter](https://interface.khm.de/wp-conte
   
 ### Forum
 further questions to this topic can be discussed here:  
-http://arduino.cc/forum/index.php/topic,64219.0.html  
+[https://forum.arduino.cc/t/frequency-counter-library/63937](https://forum.arduino.cc/t/frequency-counter-library/63937)
 http://www.arduino.cc/cgi-bin/yabb2/YaBB.pl?num=1231326297  
   
 ### Contact
