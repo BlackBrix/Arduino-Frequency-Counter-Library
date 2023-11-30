@@ -1,5 +1,5 @@
 This library is "cloned" from here (including this readme-file):  
-http://interface.khm.de/index.php/lab/interfaces-advanced/arduino-frequency-counter-library/  
+[https://interface.khm.de/index.php/lab/interfaces-advanced/arduino-frequency-counter-library](https://interface.khm.de/index.php/lab/interfaces-advanced/arduino-frequency-counter-library)  
   
 ---------
   
